@@ -1,4 +1,4 @@
-# installing and running ClickHouse database
+# installing and running ClickHouse database on Windows
 
 1. wsl
 2. sudo -i

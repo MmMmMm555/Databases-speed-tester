@@ -5,6 +5,7 @@
 3. mkdir /clickhouse
 4. cd clickhouse
 5. ./clickhouse server
+6. #
 In another WSL window, start the client:
-6. ./clickhouse client
-7. create database db1;
+7. ./clickhouse client
+8. create database db1;
